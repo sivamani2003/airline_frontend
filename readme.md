@@ -1,5 +1,4 @@
 
-
 ```markdown
 # My Vite Project
 
@@ -16,7 +15,7 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the repository
 
 ```sh
-git clone 
+git clone https://github.com/sivamani2003/airline_frontend
 cd your-repo-name
 ```
 
